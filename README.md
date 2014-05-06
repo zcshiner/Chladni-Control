@@ -1,4 +1,4 @@
-Chladni-Control
+Chladni Control
 ===============
 
 Code for the Adafruit Trinket embedded in Discovery Space's Chladni Plate exhibit.
